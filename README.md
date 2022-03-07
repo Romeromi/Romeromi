@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Romeromi
-- 👀 I’m interested in front/back end software development and information security. learning code after finishing a Bachelor's in Science and Seton Hall.
+- 👀 I’m interested in front/back end software development and information security. learning code after finishing a Bachelor's in Science majoring in biology at Seton Hall.
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate: N/A for now
 - 📫 How to reach me: N/A
